@@ -47,3 +47,9 @@ You can use this payload in your custom action, fell free to modify the system p
 
 - [Perplexity API Documentation](https://docs.perplexity.ai/)
 - [Voiceflow Documentation](https://www.voiceflow.com/docs)
+
+## Notes
+
+Keep in mind that this example send your Perplexity API key to the chat widget,
+on production you want to use a proxy to make the request to the Perplexity API and
+use a solution like the one we are using in our [domain checker](https://github.com/voiceflow-gallagan/vf-chat-domain-checker) example.
