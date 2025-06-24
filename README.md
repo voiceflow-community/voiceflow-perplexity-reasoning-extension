@@ -53,3 +53,6 @@ You can use this payload in your custom action, fell free to modify the system p
 Keep in mind that this example send your Perplexity API key to the chat widget,
 on production you want to use a proxy to make the request to the Perplexity API and
 use a solution like the one we are using in our [domain checker](https://github.com/voiceflow-gallagan/vf-chat-domain-checker) example.
+
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_voiceflow-perplexity-reasoning-extension&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_voiceflow-perplexity-reasoning-extension)
